@@ -19,7 +19,10 @@ $$\dot{x}(t) = f(x) + \sum_{i=1}^m u_i(t) + \sum_{k=1}^{N(t)} f_k(t)p(t - t_k) +
 
 For more theoretical details on how the code works, see [this description file](https://github.com/dbaitech/evolutionary-game-theory/blob/main/non-cooperative_evo_game_description.ipynb).
 
-For the Jupyter notebook, [please see this file](https://github.com/dbaitech/evolutionary-game-theory/blob/main/non-cooperative_evo_game_code.ipynb).
+As the Jupyter notebook may take a while to open on GitHub, you can open it in Google Colab [![with this link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbaitech/evolutionary-game-theory/blob/main/non-cooperative_evo_game_code.ipynb).
+- Here is the file [in this repository](https://github.com/dbaitech/evolutionary-game-theory/blob/main/non-cooperative_evo_game_code.ipynb).
+
+Note: the implementation is under development to fine-tune the initial inputs for more stable results.
 
 # Source Paper
 Bor-Sen Chen, Chin-Hsun Yeh,
