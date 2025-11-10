@@ -3,7 +3,7 @@ Biological populations evolve under pressure from a combination of factors: rand
 
 In the paper *Stochastic noncooperative and cooperative evolutionary game strategies of a population of biological networks under natural selection, Biosystems* by Chen et al., this is modelled as both non-cooperative and co-operative evolutionary games. In this repository, I focus on the non-cooperative case.
 
-I also have an implementation of the original simple replicator equation [in this file](https://github.com/dbaitech/evolutionary-game-theory/blob/main/replicator_equation.ipynb).
+I also have an implementation of the original replicator equation [in this file](https://github.com/dbaitech/evolutionary-game-theory/blob/main/replicator_equation.ipynb).
 
 I look at modeling the rate of change of different species in a population which will then be used to demonstrate how effective certain strategies are, meaning how effectively they can counter disturbances and maintain a stable population state with minimal evolutionary effort.
 
